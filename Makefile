@@ -2,7 +2,7 @@
 VERSION = 5
 PATCHLEVEL = 4
 SUBLEVEL = 0
-EXTRAVERSION = dsbatk
+EXTRAVERSION = dsbatktest
 NAME = Kleptomaniac Octopus
 
 # *DOCUMENTATION*
